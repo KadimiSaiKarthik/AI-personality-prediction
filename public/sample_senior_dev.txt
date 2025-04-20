@@ -1,0 +1,55 @@
+JOHN DOE
+Senior Software Engineer
+email: john.doe@email.com
+LinkedIn: linkedin.com/in/johndoe
+
+PROFESSIONAL SUMMARY
+Innovative Senior Software Engineer with 10+ years of experience in full-stack development, cloud architecture, and team leadership. Proven track record of delivering high-impact solutions and mentoring junior developers. Expert in modern web technologies and cloud platforms.
+
+PROFESSIONAL EXPERIENCE
+
+Principal Software Engineer | TechCorp Inc. | 2020-Present
+• Led architecture and development of cloud-native microservices platform serving 2M+ users
+• Improved system performance by 200% through innovative architecture redesign
+• Mentored team of 8 developers, with 5 receiving promotions within 18 months
+• Implemented ML-powered recommendation engine increasing user engagement by 45%
+
+Senior Software Engineer | InnovateTech | 2016-2020
+• Spearheaded migration to AWS cloud, reducing operational costs by 60%
+• Developed automated CI/CD pipeline reducing deployment time from days to hours
+• Led adoption of Kubernetes for container orchestration
+• Received "Outstanding Technical Leadership" award for 3 consecutive years
+
+TECHNICAL SKILLS
+• Languages: Python, JavaScript, TypeScript, Java, Go
+• Frameworks: React, Node.js, Django, Spring Boot
+• Cloud: AWS (Certified Solutions Architect), GCP, Kubernetes, Docker
+• Tools: Git, Jenkins, Terraform, Prometheus, ELK Stack
+
+KEY PROJECTS
+• E-commerce Platform Redesign
+  - Architected scalable platform handling $50M+ in annual transactions
+  - Implemented real-time inventory management system
+  - Reduced page load time by 70% through optimization
+
+• ML Pipeline Development
+  - Created automated machine learning pipeline for customer analytics
+  - Improved recommendation accuracy by 45%
+  - Implemented A/B testing framework
+
+EDUCATION
+• Master of Science in Computer Science
+  Stanford University, 2016
+• Bachelor of Science in Software Engineering
+  MIT, 2014
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Professional
+• Google Cloud Professional Cloud Architect
+• Kubernetes Certified Administrator (CKA)
+
+ACHIEVEMENTS
+• Published 3 technical papers on microservices architecture
+• Regular speaker at technology conferences
+• Contributed to multiple open-source projects
+• Filed 2 patents for innovative cloud solutions 
